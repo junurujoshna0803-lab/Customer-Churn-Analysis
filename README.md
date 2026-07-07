@@ -59,10 +59,18 @@ Studied relationship between customer tenure and churn.
 
 ---
 
+## 📸 Screenshots
+
+
+
+
+---
+
 ## 🚀 Conclusion
 This analysis helps businesses understand customer behavior and take actions to reduce churn, improve customer satisfaction, and increase retention.
 
 ---
 
 ## 👩‍💻 Author
+**Junuru Joshna**
 GitHub: https://github.com/junurujoshna0803-lab

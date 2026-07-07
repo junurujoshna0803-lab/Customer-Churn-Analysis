@@ -60,9 +60,10 @@ Studied relationship between customer tenure and churn.
 ---
 
 ## 📸 Screenshots
-
-
-
+- churn by gender output.png
+- churn vs monthly charges.png
+- churn vs tenure.png
+- customer churn count.png
 
 ---
 
